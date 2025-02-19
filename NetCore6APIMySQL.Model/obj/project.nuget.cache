@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jsCFlx28lsjJurn0z5Wam8J4MV+Jxr3zl48zT7Zs+oVTG1Rry26orzGcG5cAwzHP23KxjEvnAQyY8/1Vd/3h5w==",
+  "success": true,
+  "projectFilePath": "C:\\cscourse\\NetCore6APIMySQL\\NetCore6APIMySQL.Model\\NetCore6APIMySQL.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\karin\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\karin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\karin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}

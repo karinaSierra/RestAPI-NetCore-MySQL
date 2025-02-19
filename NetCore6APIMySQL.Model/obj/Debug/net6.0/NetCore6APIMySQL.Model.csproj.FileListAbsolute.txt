@@ -1,0 +1,11 @@
+C:\cscourse\NetCore6APIMySQL\NetCore6APIMySQL.Model\obj\Debug\net6.0\NetCore6APIMySQL.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\cscourse\NetCore6APIMySQL\NetCore6APIMySQL.Model\obj\Debug\net6.0\NetCore6APIMySQL.Model.AssemblyInfoInputs.cache
+C:\cscourse\NetCore6APIMySQL\NetCore6APIMySQL.Model\obj\Debug\net6.0\NetCore6APIMySQL.Model.AssemblyInfo.cs
+C:\cscourse\NetCore6APIMySQL\NetCore6APIMySQL.Model\obj\Debug\net6.0\NetCore6APIMySQL.Model.csproj.CoreCompileInputs.cache
+C:\cscourse\NetCore6APIMySQL\NetCore6APIMySQL.Model\bin\Debug\net6.0\NetCore6APIMySQL.Model.deps.json
+C:\cscourse\NetCore6APIMySQL\NetCore6APIMySQL.Model\bin\Debug\net6.0\NetCore6APIMySQL.Model.dll
+C:\cscourse\NetCore6APIMySQL\NetCore6APIMySQL.Model\bin\Debug\net6.0\NetCore6APIMySQL.Model.pdb
+C:\cscourse\NetCore6APIMySQL\NetCore6APIMySQL.Model\obj\Debug\net6.0\NetCore6APIMySQL.Model.dll
+C:\cscourse\NetCore6APIMySQL\NetCore6APIMySQL.Model\obj\Debug\net6.0\refint\NetCore6APIMySQL.Model.dll
+C:\cscourse\NetCore6APIMySQL\NetCore6APIMySQL.Model\obj\Debug\net6.0\NetCore6APIMySQL.Model.pdb
+C:\cscourse\NetCore6APIMySQL\NetCore6APIMySQL.Model\obj\Debug\net6.0\ref\NetCore6APIMySQL.Model.dll
